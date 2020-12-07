@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf67145eafb24a468c1f03195270235, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: Quin compositor es deia Frederic?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Mozart
+    - Wagner
+    - Sors
+    - Chopin
+    correctAns: Chopin
+  - questionInfo: Quin instrument tocava?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Viol\xED"
+    - Trompa
+    - Piano
+    - Clarinet
+    correctAns: Piano
+  - questionInfo: Quina divinitat grega ha ajudat als artistes a inspirar-se?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Musa
+    - "Apol\xB7lo"
+    - Zeus
+    - Afrodita
+    correctAns: Musa
